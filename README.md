@@ -29,7 +29,7 @@ Proyek ini dilakukan dengan menggunakan bahasa pemrograman Python dan beberapa l
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 ## Catatan
-Proyek ini hanya untuk tujuan pembelajaran dan demonstrasi. Data yang digunakan dalam proyek ini mungkin telah dimodifikasi atau disederhanakan untuk keperluan pembelajaran. Tidak dimaksudkan untuk dijadikan sebagai analisis lengkap atau akurat tentang industri film.
+Proyek ini hanya untuk tujuan pembelajaran, portfolio dan demonstrasi. Data yang digunakan dalam proyek ini mungkin telah dimodifikasi atau disederhanakan untuk keperluan pembelajaran. Tidak dimaksudkan untuk dijadikan sebagai analisis lengkap atau akurat tentang industri film.
 
 ---
 
