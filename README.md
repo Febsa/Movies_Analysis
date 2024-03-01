@@ -1,6 +1,6 @@
 # Movies Analysis Project
 
-![Movie Theater](https://images.unsplash.com/photo-1516669316427-59391bf030a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80)
+![Movie Theater](https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Proyek analisis data film ini bertujuan untuk menjelajahi dan menganalisis tren dalam industri film menggunakan dataset yang diperoleh dari sumber terbuka di internet. 
 Proyek ini dilakukan dengan menggunakan bahasa pemrograman Python dan beberapa library seperti Pandas, Matplotlib, dan plotly untuk manipulasi data dan visualisasi.
